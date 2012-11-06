@@ -1,4 +1,10 @@
-# The Tillikum Project
+The Tillikum Project Site
+=========================
 
-Here is the source for our website. If there are changes you want to make, fork
-it and send a pull request!
+You’re looking at the source for The Tillikum Project’s website.
+
+Contributing
+------------
+
+1. Fork the repository.
+2. Send a pull request!
